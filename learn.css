@@ -1,0 +1,115 @@
+body {
+  font-family: "Indie Flower";
+  color: rgb(60, 85, 110);
+  background-image: url("transparentclouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#12355B;
+    font-size: 30px;
+  }
+
+  li {
+    float: right;
+    padding: 30px 30px;
+  }
+  
+   /* li a {
+    display: block;
+    color: #85A2C0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  } */
+
+  li a:hover {
+    background-color: #12355B;
+    color: #E6E8E6;
+  }
+
+.logo {
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding-left: 50px;
+}
+
+h1 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+h2 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+
+h3 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+h4 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+h5 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+
+}
+
+h6 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+h7 {
+    background-color: #12355B;
+    color: #E6E8E6;
+  font-size: 30px;
+}
+
+/* // Navagation bar
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(53, 52, 52);
+}
+li {
+  float: right;
+} */
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #E6E8E6;
+}
+
+img {
+  width: 30%;
+  height: 30%;
+  padding: 10px;
+  text-align: row;
+  width: 130px;
+  height: 130px;
+}

@@ -1,0 +1,78 @@
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #12355B;
+    font-size: 30px;
+  }
+
+  li {
+    float: right;
+    padding: 30px 30px;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: white;
+    color: #12355B;
+  }
+
+body {
+  background-color: #12355B;
+  text-align: center;
+  font-family: "Indie Flower";
+  background-image: url("transparentclouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #12355B;
+  font-size: 30px;
+}
+
+h2{
+  color: #12355B;
+  font-size: 20px;
+
+}
+
+h3{
+  color: #12355B;
+  font-size: 20px;
+
+}
+
+p {
+  color: #12355B;
+  font-size: 15px;
+
+}
+
+button{
+  color: #12355B;
+  border-color: #12355B;
+  border-radius: 20px;
+  background-color: 12355B;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-size: 15px;
+   font-family: "Indie Flower";
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding-left: 50px;
+  border-color: #555B63;
+}

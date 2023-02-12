@@ -1,0 +1,66 @@
+body {
+  font-family: "Indie Flower";
+  color: rgb(80,96,58);
+  background-image: url("transparentclouds.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #12355B;
+  font-size: 30px;
+}
+
+  li {
+    float: right;
+    padding: 30px 30px;
+  }
+  
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #E6E8E6;
+    color: #12355B;
+  }
+
+.logo {
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding-left: 50px;
+}
+
+iframe {
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  font-size: 65px;
+  border: 5px dashed white;
+  text-align: center;
+}
+
+.breathing-gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form{
+  font-size: 30px;
+  color: #12355B;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
